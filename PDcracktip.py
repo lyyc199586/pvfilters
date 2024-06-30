@@ -1,3 +1,8 @@
+# Copyright (c) 2024 Yangyuanchen Liu. All rights reserved.
+# https://orcid.org/0000-0002-7730-8287 (ORCID)
+# liuyangyuanchen@outlook.com (email)
+# License: http://opensource.org/licenses/MIT
+
 from paraview.util.vtkAlgorithm import *
 from paraview import vtk
 
