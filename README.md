@@ -1,6 +1,6 @@
 # PVFilters
 
-`PVFilters` is a collection of custom ParaView filters designed to extend the capabilities of the ParaView visualization tool. This repository includes various filters for scientific computing and data visualization, particularly focusing on finite element methods and phase field crack tip detection.
+`PVFilters` is a collection of custom ParaView filters designed to extend the capabilities of the ParaView visualization tool. This repository includes various filters for scientific computing and data visualization, particularly focusing on finite element methods and phase field for fracture.
 
 ## Filters
 
