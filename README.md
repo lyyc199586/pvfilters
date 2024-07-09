@@ -27,7 +27,7 @@ To use the `PDcracktip` filter in ParaView, follow these steps:
 4. **Set the parameters**:
    - `ArrayName`: Select the phase field array name from the list of available arrays.
    - `CriticalPhaseFieldValue`: Set the threshold value for the phase field (between 0 and 1).
-   - `InitialTipLocation`: Set the initial guess for the crack tip location.
+   - `InitialTipLocation`: Set the initial crack tip location.
    - `RegionMin` and `RegionMax`: Define the region of interest for filtering points.
    
    Example:
